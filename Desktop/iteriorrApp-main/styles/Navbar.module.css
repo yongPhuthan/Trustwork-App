@@ -1,0 +1,146 @@
+.text-block {
+    position: relative;
+    display: inline-block;
+    padding-top: 0px;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  .container {
+    margin-right: auto;
+    padding-left: 80px;
+  }
+  
+  .navbar {
+    height: 60px;
+    background-color: #F3F3F3;
+    width: 100%;
+  }
+  
+  .navlink {
+    position: absolute;
+    width: auto;
+    height: 18px;
+    left: -110px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+    
+  }
+  .navlink2 {
+    position: absolute;
+    width: auto;
+    height: 18px;
+    left:-50px;
+
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    
+    color: #000000;
+  }
+  .navlink3 {
+    position: absolute;
+    width: auto;
+    height: 18px;
+    left: 150px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    
+    color: #000000;
+    
+    
+  }
+  .navlink4 {
+    position: absolute;
+    width: auto;
+    height: 18px;
+    left:30px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    display: flex;
+    color: #000000;
+    
+    opacity: 0.9;
+  }
+  
+  .navmenu {
+    position: absolute;
+    width: 321px;
+    height: 18px;
+    left: 698px;
+    top: 18px;
+  }
+  
+  .container-2 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    height: 60px;
+    margin-right: 80px;
+    margin-left: 80px;
+  }
+  
+  .brand {
+    position: absolute;
+    width: 104px;
+    height: 37px;
+    left: 80px;
+    top: 9px;
+    
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    
+    color: #000000;
+    
+  }
+  
+  
+  .priceBag{
+    position: absolute;
+    width: 86px;
+    height: 18px;
+    right : 80px;
+    top: 21px;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+    
+  }

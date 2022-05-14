@@ -1,0 +1,68 @@
+.img {
+width: auto;
+height: 300px;
+}
+.card {
+width: 600px;
+height: auto;
+
+}
+.cardh1 {
+width: auto;
+height: 41px;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+display: flex;
+align-items: center;
+text-align: center;
+margin-top:10px;
+color: #000000;
+}
+.cardtxt {
+margin-top: 5px;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 23px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+color: #000000;
+}
+.cardh3{
+width: auto;
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 28px;
+display: flex;
+align-items: right;
+text-align: center;
+
+color: #000000;
+}
+.cardprice {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 41px;
+    display: flex;
+    align-items: right;
+    color: #F4B7A4;
+    text-align: right;
+        
+}
+.cardtxtright {
+    align-items: right;
+    text-align: right;
+
+    margin-top: 25px
+}

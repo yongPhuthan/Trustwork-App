@@ -1,0 +1,91 @@
+.img {
+    width: 380px;
+    height: 190px;
+}
+
+.card {
+    width: 400px;
+    height: auto;
+}
+
+.cardh1 {
+    width: auto;
+
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cardtxt {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    /* identical to box height */
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #000000;
+}
+
+.cardh3 {
+    width: auto;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    display: flex;
+    align-items: right;
+    text-align: center;
+    color: #000000;
+}
+
+.cardprice {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    display: flex;
+    color: #F4B7A4;
+
+}
+
+.cardtxtright {
+    align-items: right;
+    text-align: right;
+    margin-top: 15px
+}
+
+.myimage {
+    margin-right: 20px;
+    width: 20px;
+    height: 20px;
+
+}
+
+.myimage img {
+    border-radius: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.fabricPageTxt {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+
+}
+
+.fabricPageH1 {
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+}
